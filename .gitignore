@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+# basic post example
+2017-03-23-welcome-to-jekyll.markdown
